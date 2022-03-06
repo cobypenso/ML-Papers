@@ -9,3 +9,5 @@
 * On Calibration of modern Neural Networks - https://arxiv.org/pdf/1706.04599.pdf
 * MMD GAN - Towards Deeper Understanding of Moment Matching Network - https://arxiv.org/pdf/1705.08584.pdf
 * Navigating the GAN Parameter Space for Semantic Image Editing - https://arxiv.org/abs/2011.13786
+* Unsupervised Portrait Shadow Removal via Generative Priors -
+ https://arxiv.org/abs/2108.03466
