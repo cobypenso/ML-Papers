@@ -11,3 +11,7 @@
 * Navigating the GAN Parameter Space for Semantic Image Editing - https://arxiv.org/abs/2011.13786
 * Unsupervised Portrait Shadow Removal via Generative Priors -
  https://arxiv.org/abs/2108.03466
+* Global Filter Networks for Image Classification -
+ https://arxiv.org/abs/2107.00645
+* AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty -
+ https://arxiv.org/abs/1912.02781
