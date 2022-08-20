@@ -15,3 +15,6 @@
  https://arxiv.org/abs/2107.00645
 * AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty -
  https://arxiv.org/abs/1912.02781
+
+* MixMatch: A Holistic Approach to Semi-Supervised Learning -
+ https://arxiv.org/abs/1905.02249
